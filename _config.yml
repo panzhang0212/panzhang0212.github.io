@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Pan Zhang"
 description              : "Researcher at Shanghai AI Laboratory. "
-repository               : "panzhang0212/panzhang.github.io"
+repository               : "panzhang0212/panzhang0212.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=moHH480AAAAJ&hl=en"
-  email            : "panzhang0212@gmail.com"
+  email            : "zhangpan@pjlab.org.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
