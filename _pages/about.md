@@ -26,10 +26,10 @@ We are seeking long-term internship candidates and looking for research collabor
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 <span style="font-style: italic;">InternLM-XComposer Series</span> has received <span style="color:red">1,300+ github star</span>. <span style="font-style: italic;">InternLM-XComposer2</span> has been commercially utilized by <span style="color:red">ByteDance</span>.
+- *2024.03*: &nbsp;🎉🎉 <span style="font-style: italic;">InternLM-XComposer Series</span> has received <span style="color:red">1,300+ github star</span>. <span style="font-style: italic;">XComposer2</span> has been commercially utilized by <span style="color:red">ByteDance</span>.
 - *2024.02*: &nbsp;🎉🎉 The model and dataset of <span style="font-style: italic;">ShareGPT4V</span> has been download <span style="color:red">100,000+ times in one month</span>.
 - *2024.02*: &nbsp;🎉🎉 Three papers accepted by CVPR 2024. <span style="font-style: italic;">Alpha-CLIP</span> is <span style="color:red">Strong Accepted by All the Reviewers</span>.
-- *2024.01*: &nbsp;🎉🎉 We release <span style="color:red">InternLM-XComposer2</span>. The 7B model significantly outperforms existing multimodal models, <span style="color:red">matches or even surpasses GPT-4V and Gemini Pro</span> in certain assessments.
+- *2024.01*: &nbsp;🎉🎉 We release <span style="color:red">InternLM-XComposer2</span>. The first 7B model <span style="color:red">matches or even surpasses GPT-4V and Gemini Pro</span> in certain assessments.
 - *2023.09*: &nbsp;🎉🎉 We release <span style="color:red">InternLM-XComposer</span>, a vision-language large model for advanced text-image comprehension and composition.
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by SIGGRAPH Asia 2023.
 - *2023.07*: &nbsp;🎉🎉 <span style="font-style: italic;">V3Det</span>, the first ten-thousand-class object detection dataset, is accepted by ICCV 2023 as <span style="color:red">Oral</span> Papers. 
@@ -98,7 +98,7 @@ CVPR 2024 <span style="color:red">Strong Accepted by All the Reviewers</span>\| 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/opera.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Opera: Alleviating hallucination in multi-modal large language models via over-trust penalty and retrospection-allocation](https://arxiv.org/abs/2311.17911)
+[OPERA: Alleviating hallucination in multi-modal large language models via over-trust penalty and retrospection-allocation](https://arxiv.org/abs/2311.17911)
 
 Qidong Huang, Xiaoyi Dong, **Pan Zhang**, Bin Wang, Conghui He, Jiaqi Wang, Dahua Lin, Weiming Zhang, Nenghai Yu
 
