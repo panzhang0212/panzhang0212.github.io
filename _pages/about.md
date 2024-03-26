@@ -32,7 +32,7 @@ We are seeking long-term internship candidates and looking for research collabor
 - *2024.01*: &nbsp;🎉🎉 We release <span style="color:red">InternLM-XComposer2</span>. The first 7B model <span style="color:red">matches or even surpasses GPT-4V and Gemini Pro</span> in certain assessments.
 - *2023.09*: &nbsp;🎉🎉 We release <span style="color:red">InternLM-XComposer</span>, a vision-language large model for advanced text-image comprehension and composition.
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by SIGGRAPH Asia 2023.
-- *2023.07*: &nbsp;🎉🎉 <span style="font-style: italic;">V3Det</span>, the first ten-thousand-class object detection dataset, is accepted by ICCV 2023 as <span style="color:red">Oral</span> Papers. 
+- *2023.07*: &nbsp;🎉🎉 <span style="font-style: italic;">V3Det</span>, the first ten-thousand-class object detection dataset, is accepted by ICCV 2023 as an <span style="color:red">Oral</span> paper. 
 - *2023.03*: &nbsp;🎉🎉 Two papers accepted by CVPR 2023. 
 - *2022.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2022.
 - *2022.03*: &nbsp;🎉🎉 One paper accepted by TPAMI.
